@@ -552,3 +552,11 @@
 	key_third_person = "swears"
 	message = "says a swear word!"
 	emote_type = EMOTE_AUDIBLE
+
+
+/datum/emote/living/tilt2
+	key = "tilt2"
+	key_third_person = "tilts2"
+	sound = 'sound/misc/funi.ogg'
+	message = "tilts their head in the same way that famous american actor, Dwayne The Rock Johnson would, raising an eyebrow."
+	emote_type = EMOTE_AUDIBLE
